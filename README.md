@@ -16,19 +16,19 @@ I am currently exploring backend web development and enjoy learning new technolo
 
 ## Tech Stack
 - **💻 Languages**: 
-  - <img src="https://example.com/python-icon.png" alt="Python" width="16" height="16"> Python
-  - <img src="https://example.com/java-icon.png" alt="Java" width="16" height="16"> Java
+  - ![Python Icon](https://img.icons8.com/color/16/000000/python.png) Python
+  - ![Java Icon](https://img.icons8.com/color/16/000000/java-coffee-cup-logo.png) Java
 
 - **🛠️ Frameworks**: 
-  - <img src="https://example.com/django-icon.png" alt="Django" width="16" height="16"> Django
+  - ![Django Icon](https://img.icons8.com/color/16/000000/django.png) Django
 
 - **🌐 Web Technologies**: 
-  - <img src="https://example.com/html5-icon.png" alt="HTML5" width="16" height="16"> HTML5
-  - <img src="https://example.com/css3-icon.png" alt="CSS3" width="16" height="16"> CSS3
+  - ![HTML5 Icon](https://img.icons8.com/color/16/000000/html-5.png) HTML5
+  - ![CSS3 Icon](https://img.icons8.com/color/16/000000/css3.png) CSS3
 
 - **📊 Databases**: 
-  - <img src="https://example.com/mongodb-icon.png" alt="MongoDB" width="16" height="16"> MongoDB
-  - <img src="https://example.com/mysql-icon.png" alt="MySQL" width="16" height="16"> MySQL
+  - ![MongoDB Icon](https://img.icons8.com/color/16/000000/mongodb.png) MongoDB
+  - ![MySQL Icon](https://img.icons8.com/color/16/000000/mysql-logo.png) MySQL
 
 ## Achievements
 - Contributed to open-source projects and celebrated the spirit of collaboration.
