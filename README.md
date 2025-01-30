@@ -1,33 +1,36 @@
 # Hi, I'm Yohannes Belete! 👋
 
-I am a Computer Science student at ASTU, driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a Computer Science and Engineering student at ASTU, driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ## Yohannes Belete's GitHub Stats
-![Yohannes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true)
+![Yohannes's GitHub Stats]
 
 ## About Me
-I am currently exploring backend web development and enjoy learning new technologies.
+I'm currently pursuing my Bachelor's in Computer Science and Engineering at ASTU.
+
+## 🌱 Currently Exploring
+🚀 **Learning Backend Web Development**
+- Working with the Django framework for server-side applications.
+- Styling with CSS to create visually appealing user interfaces.
+- Using MySQL and MongoDB databases for efficient data management.
 
 ## Tech Stack
-- **Languages**: 
-  - C++ ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-  - Java ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- **Frameworks**: 
-  - Django ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-- **Web Technologies**: 
-  - HTML5 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  - CSS3 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- **Databases**: 
-  - MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-  - MySQL ![MySQL](https://img.shields.io/badge/MySQL-005EA6?style=flat&logo=mysql&logoColor=white)
+- **💻 Languages**: 
+  - ![Python Icon](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+  - ![Java Icon](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg) Java
 
-## Currently Exploring
-- Backend web development
+- **🛠️ Frameworks**: 
+  - ![Django Icon](https://www.djangoproject.com/m/img/logos/django-logo-negative.png) Django
+
+- **🌐 Web Technologies**: 
+  - ![HTML5 Icon](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) HTML5
+  - ![CSS3 Icon](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) CSS3
+
+- **📊 Databases**: 
+  - ![MongoDB Icon](https://upload.wikimedia.org/wikipedia/commons/9/5a/MongoDB_Logo.svg) MongoDB
+  - ![MySQL Icon](https://upload.wikimedia.org/wikipedia/en/0/00/MySQL_logo.png) MySQL
 
 ## Achievements
-- Contributed to open source projects and celebrated the spirit of collaboration.
-
-## Get in Touch
-- Check out my [Portfolio Site](#).
+- Contributed to open-source projects and celebrated the spirit of collaboration.
 
 Thanks for stopping by! Let’s connect and explore the fascinating world of technology together!
