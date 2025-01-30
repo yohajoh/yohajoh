@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm yohannes belete</h1>
 <h3 align="center">A passionate backend web developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohajoh&label=Profile%20views&color=0e75b6&style=flat" alt="yohajoh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohajoh" alt="yohajoh" /></a> </p>
 
-- 🌱 I’m currently learning **Learning Backend Web Development\n Working with the Django framework for server-side applications.\n Styling with CSS to create visually appealing user interfaces.\n Using MySQL and MongoDB databases for efficient data management.**
+- 🌱 I’m currently learning **Learning Backend Web Development. Working with the Django framework for server-side applications. Styling with CSS to create visually appealing user interfaces. Using MySQL and MongoDB databases for efficient data management.**
 
 - 💬 Ask me about **I'm currently pursuing my Bachelor's in Computer Science and Engineering at ASTU.**
 
