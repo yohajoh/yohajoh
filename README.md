@@ -25,4 +25,3 @@ I am a Computer Science and Enginnering student at ASTU, driven by a curiosity f
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohajoh&show_icons=true&locale=en&layout=compact" alt="yohajoh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yohajoh&show_icons=true&locale=en" alt="yohajoh" /></p>
