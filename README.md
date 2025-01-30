@@ -18,13 +18,12 @@ I am a Computer Science and Enginnering student at ASTU, driven by a curiosity f
        Using MySQL and MongoDB databases for efficient data management.
 <h3>📬 Get in Touch</h3>
 
- 📫 How to reach me **ybelete490@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h6 align="left">Connect with me on:</h6>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yohannes-belete-025178339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yohannes-belete-025178339/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/yohajoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/yohajoh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/yohajoh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yohajoh/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yohannes-belete-025178339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yohannes-belete-025178339/" height="30" width="40" />linkedin</a><br/>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/yohajoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/yohajoh" height="30" width="40" />codeforces</a><br/>
+<a href="https://www.leetcode.com/https://leetcode.com/u/yohajoh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yohajoh/" height="30" width="40" />leetcode</a>
 </p>
+
 
 
