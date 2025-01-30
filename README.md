@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm yohannedsjks belete</h1>
+<h1 align="center">Hi 👋, I'm yohannes belete</h1>
 <h3 align="center">A passionate backend web developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohajoh&label=Profile%20views&color=0e75b6&style=flat" alt="yohajoh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohajoh" alt="yohajoh" /></a> </p>
 
-- 🌱 I’m currently learning **django, python**
+- 🌱 I’m currently learning **Learning Backend Web Development\n Working with the Django framework for server-side applications.\n Styling with CSS to create visually appealing user interfaces.\n Using MySQL and MongoDB databases for efficient data management.**
 
-- 💬 Ask me about **jkhjkhjkzxhcjlKJXCHjkhckjLXJChzKXC**
+- 💬 Ask me about **I'm currently pursuing my Bachelor's in Computer Science and Engineering at ASTU.**
 
-- 📫 How to reach me **xccxz**
+- 📫 How to reach me **ybelete490@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yohannes-belete-025178339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yohannes-belete-025178339/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/yohajoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/yohajoh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/yohajoh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yohajoh/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
