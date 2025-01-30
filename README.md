@@ -3,15 +3,15 @@
 - I am a Computer Science and Enginnering student at ASTU, driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 
-- <h1>🌱 Currently Exploring</h1>
-- <h2>🚀**Learning Backend Web Development.</h2>
-- Working with the Django framework for server-side applications.
-- Styling with CSS to create visually appealing user interfaces.
-- Using MySQL and MongoDB databases for efficient data management.**
+ <h1>🌱 Currently Exploring</h1>
+ <h2>🚀 Learning Backend Web Development.</h2>
+       - Working with the Django framework for server-side applications.
+       - Styling with CSS to create visually appealing user interfaces.
+       - Using MySQL and MongoDB databases for efficient data management.**
 
-- 💬 Ask me about **I'm currently pursuing my Bachelor's in Computer Science and Engineering at ASTU.**
+ 💬 Ask me about **I'm currently pursuing my Bachelor's in Computer Science and Engineering at ASTU.**
 
-- 📫 How to reach me **ybelete490@gmail.com**
+ 📫 How to reach me **ybelete490@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
