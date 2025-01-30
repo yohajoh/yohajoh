@@ -16,8 +16,7 @@ I am a Computer Science and Enginnering student at ASTU, driven by a curiosity f
        Working with the Django framework for server-side applications.<br/>
        Styling with CSS to create visually appealing user interfaces.<br/>
        Using MySQL and MongoDB databases for efficient data management.
-
- 💬 Ask me about **I'm currently pursuing my Bachelor's in Computer Science and Engineering at ASTU.**
+<h3>📬 Get in Touch</h3>
 
  📫 How to reach me **ybelete490@gmail.com**
 
@@ -28,5 +27,4 @@ I am a Computer Science and Enginnering student at ASTU, driven by a curiosity f
 <a href="https://www.leetcode.com/https://leetcode.com/u/yohajoh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yohajoh/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohajoh&show_icons=true&locale=en&layout=compact" alt="yohajoh" /></p>
 
