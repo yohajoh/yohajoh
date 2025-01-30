@@ -1,12 +1,12 @@
 # Hi, I'm Yohannes Belete! 👋
 
-I am a Computer Science and Engineering student at ASTU, driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a Computer Science student at ASTU, driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ## Yohannes Belete's GitHub Stats
 ![Yohannes's GitHub Stats]
 
 ## About Me
-I'm currently pursuing my Bachelor's in Computer Science and Engineering at ASTU.
+I am currently exploring backend web development and enjoy learning new technologies.
 
 ## 🌱 Currently Exploring
 🚀 **Learning Backend Web Development**
@@ -16,19 +16,19 @@ I'm currently pursuing my Bachelor's in Computer Science and Engineering at ASTU
 
 ## Tech Stack
 - **💻 Languages**: 
-  - ![Python Icon](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
-  - ![Java Icon](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg) Java
+  - <img src="https://example.com/python-icon.png" alt="Python" width="16" height="16"> Python
+  - <img src="https://example.com/java-icon.png" alt="Java" width="16" height="16"> Java
 
 - **🛠️ Frameworks**: 
-  - ![Django Icon](https://www.djangoproject.com/m/img/logos/django-logo-negative.png) Django
+  - <img src="https://example.com/django-icon.png" alt="Django" width="16" height="16"> Django
 
 - **🌐 Web Technologies**: 
-  - ![HTML5 Icon](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) HTML5
-  - ![CSS3 Icon](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) CSS3
+  - <img src="https://example.com/html5-icon.png" alt="HTML5" width="16" height="16"> HTML5
+  - <img src="https://example.com/css3-icon.png" alt="CSS3" width="16" height="16"> CSS3
 
 - **📊 Databases**: 
-  - ![MongoDB Icon](https://upload.wikimedia.org/wikipedia/commons/9/5a/MongoDB_Logo.svg) MongoDB
-  - ![MySQL Icon](https://upload.wikimedia.org/wikipedia/en/0/00/MySQL_logo.png) MySQL
+  - <img src="https://example.com/mongodb-icon.png" alt="MongoDB" width="16" height="16"> MongoDB
+  - <img src="https://example.com/mysql-icon.png" alt="MySQL" width="16" height="16"> MySQL
 
 ## Achievements
 - Contributed to open-source projects and celebrated the spirit of collaboration.
