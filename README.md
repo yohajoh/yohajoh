@@ -3,11 +3,14 @@
 I am a Computer Science and Enginnering student at ASTU, driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yohajoh&show_icons=true&locale=en" alt="yohajoh" /></p>
 
+<h3>🚀 About Me</h3>
+🔭 I'm currently pursuing my Bachelor's in Computer Science and Engineering at ASTU.
+
  <h3>🌱 Currently Exploring</h3>
  🚀 Learning Backend Web Development.<br/>
-  - Working with the Django framework for server-side applications.<br/>
-  - Styling with CSS to create visually appealing user interfaces.<br/>
-  - Using MySQL and MongoDB databases for efficient data management.
+       Working with the Django framework for server-side applications.<br/>
+       Styling with CSS to create visually appealing user interfaces.<br/>
+       Using MySQL and MongoDB databases for efficient data management.
 
  💬 Ask me about **I'm currently pursuing my Bachelor's in Computer Science and Engineering at ASTU.**
 
