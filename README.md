@@ -3,9 +3,9 @@
 - I am a Computer Science and Enginnering student at ASTU, driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 
- <h1>🌱 Currently Exploring</h1>
- <h2>🚀 Learning Backend Web Development.</h2>
-       - Working with the Django framework for server-side applications.
+ <h2>🌱 Currently Exploring</h2>
+ <h3>🚀 Learning Backend Web Development.</h3>
+     **- Working with the Django framework for server-side applications.
        - Styling with CSS to create visually appealing user interfaces.
        - Using MySQL and MongoDB databases for efficient data management.**
 
