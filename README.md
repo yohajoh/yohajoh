@@ -4,10 +4,10 @@
 
 
  <h2>🌱 Currently Exploring</h2>
- <h3>🚀 Learning Backend Web Development.</h3>
-     **- Working with the Django framework for server-side applications.
-       - Styling with CSS to create visually appealing user interfaces.
-       - Using MySQL and MongoDB databases for efficient data management.**
+ <h3>🚀** Learning Backend Web Development.</h3>
+  - Working with the Django framework for server-side applications.
+  - Styling with CSS to create visually appealing user interfaces.
+  - Using MySQL and MongoDB databases for efficient data management.**
 
  💬 Ask me about **I'm currently pursuing my Bachelor's in Computer Science and Engineering at ASTU.**
 
