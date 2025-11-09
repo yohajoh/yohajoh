@@ -5,18 +5,24 @@
 
 ---
 
+# 😎 Yohannes Belete
+
+---
+
 ## 💫 About Me
 
-👨‍💻 **Yohannes Belete** — a passionate **Full Stack Engineer** and **Computer Science & Engineering student** at **Adama Science and Technology University (ASTU)**.  
-Driven by curiosity and creativity, I focus on building **modern, efficient, and scalable software solutions** that solve real-world challenges.  
+👨‍💻 **Full Stack Engineer** & **Computer Science and Engineering student** at **Adama Science and Technology University (ASTU)**.  
+I’m passionate about creating **modern, efficient, and scalable** solutions that solve real-world problems.  
 
-💡 My journey in tech began with a fascination for how complex systems work under the hood — and that curiosity evolved into a deep love for **full-stack development**, **API architecture**, and **clean system design**.  
+💡 My tech journey began with curiosity about how systems work — evolving into a deep love for **full-stack development**, **API design**, and **system architecture**.  
 
-⚙️ I specialize in developing **RESTful APIs** using **Node.js** and **Express**, and crafting seamless user experiences with **React** and **Next.js**. I’m also exploring technologies like **React Query**, **TypeScript**, and **AI integrations** to enhance performance and interactivity across the stack.  
+⚙️ I specialize in **Node.js** and **Express** for backend RESTful APIs and build seamless **React** and **Next.js** frontends for rich user experiences.  
 
-🌱 I’m constantly improving my **problem-solving** and **algorithmic thinking** skills on **LeetCode** and **Codeforces**, while deepening my knowledge of **system design**, **database optimization**, and **scalable architecture**.  
+🌱 Currently exploring **React Query**, **TypeScript**, and **AI integrations**, while improving **problem-solving** on **LeetCode** and **Codeforces**.  
 
-✨ Beyond coding, I enjoy **collaborating on open-source projects**, **mentoring peers**, and exploring how technology can empower people and make meaningful impact in communities.  
+🚀 I aim to craft **production-grade applications** with clean code, great performance, and solid scalability.  
+
+✨ Outside tech, I love **mentoring peers**, **collaborating on open-source**, and discovering how technology can make a real community impact.  
 
 ---
 
@@ -46,10 +52,11 @@ Driven by curiosity and creativity, I focus on building **modern, efficient, and
 
 ## 🎯 Current Focus
 
-- 🚀 Building **end-to-end web applications** using **Next.js**, **React Query**, and **Node.js/Express**  
-- 🤖 Exploring **AI integrations** and advanced **API architectures**  
-- 🧩 Strengthening **data structures**, **algorithms**, and **system design**  
-- 🧪 Learning **software testing**, **performance optimization**, and **cloud deployment**  
+- 🚀 Building **end-to-end full-stack apps** with **Next.js**, **React Query**, and **Node.js/Express**  
+- 🤖 Exploring **AI integrations** and **API performance optimization**  
+- 🧩 Enhancing **DSA**, **system design**, and **scalable architectures**  
+- ☁️ Learning **testing**, **CI/CD**, and **cloud deployment**  
+- 💬 Contributing to **open-source** and collaborating globally  
 
 ---
 
