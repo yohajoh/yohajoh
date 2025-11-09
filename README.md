@@ -1,29 +1,196 @@
-<h1 align="center">Hi 👋, I'm yohannes belete</h1>
-<h3 align="center">A passionate backend web developer from Ethiopia</h3>
-I am a Computer Science and Enginnering student at ASTU, driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-<p><br/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yohajoh&show_icons=true&locale=en" alt="yohajoh" /></p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yohannes+Belete!;" />
+</h1>
 
-<h3>🚀 About Me</h3>
-🔭 I'm currently pursuing my Bachelor's in Computer Science and Engineering at ASTU.
+<h3 align="center">A passionate Full Stack Developer from Ethiopia 🇪🇹</h3>
 
-<h3>Tech Stack</h3>
+<br/>
 
-<h6 align="left">Languages and Tools:</h6>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> </p>
+<div align="center">
+ 
+ 🔭 I'm currently studying **Computer Science & Engineering at ASTU**
+ 
+ 🌱 I'm currently learning **Advanced Backend Development & AI Integration**
+ 
+ 💬 Ask me about **Django, React, Node.js, or any tech-related stuff**
+ 
+ 📫 How to reach me **yohannesbelete@example.com**
+ 
+ ⚡ Fun fact **I love solving complex problems and building scalable applications**
 
- <h3>🌱 Currently Exploring</h3>
- 🚀 Learning Backend Web Development.<br/>
-       Working with the Django framework for server-side applications.<br/>
-       Styling with CSS to create visually appealing user interfaces.<br/>
-       Using MySQL and MongoDB databases for efficient data management.
-<h3>📬 Get in Touch</h3>
+</div>
 
-<h6 align="left">Connect with me on:</h6>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yohannes-belete-025178339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yohannes-belete-025178339/" height="30" width="40" />linkedin</a><br/>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/yohajoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/yohajoh" height="30" width="40" />codeforces</a><br/>
-<a href="https://www.leetcode.com/https://leetcode.com/u/yohajoh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yohajoh/" height="30" width="40" />leetcode</a>
-</p><br/>
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+<br/>
 
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/yohannes-belete-025178339/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/yohajoh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/yohajoh" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://yohannes-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF713C?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</div>
 
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<br/>
+
+<div align="center">
+  
+### 🚀 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 💻 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### 🔧 Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<br/>
+
+<div align="center">
+  
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yohajoh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohajoh&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+
+<!-- GitHub Streak -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yohajoh&hide_border=true&theme=radical" />
+
+<!-- GitHub Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=yohajoh&theme=radical&no-frame=true&no-bg=false&margin-w=4"/>
+
+</div>
+
+<br/>
+
+<h2 align="center">🏆 Competitive Programming & Problem Solving</h2>
+
+<br/>
+
+<div align="center">
+
+<!-- LeetCode Stats -->
+<a href="https://leetcode.com/u/yohajoh/">
+  <img height="150em" src="https://leetcard.jacoblin.cool/yohajoh?theme=dark&font=ABeeZee&ext=contest" />
+</a>
+
+<!-- Codeforces Stats -->
+<a href="https://codeforces.com/profile/yohajoh">
+  <img height="150em" src="https://cf.leed.at?id=yohajoh" />
+</a>
+
+</div>
+
+<br/>
+
+<h2 align="center">👨‍💻 Current Focus & Learning Path</h2>
+
+<br/>
+
+<div align="center">
+
+### 🚀 Building
+- **Full Stack Web Applications** with modern tech stacks
+- **RESTful APIs** and **Microservices Architecture**
+- **Scalable Backend Systems** with Django and Node.js
+
+### 🌱 Learning
+- **Advanced System Design** and **Cloud Computing**
+- **AI/ML Integration** in web applications
+- **DevOps Practices** and **Containerization**
+
+### 💡 Exploring
+- **Real-time Applications** with WebSockets
+- **Progressive Web Apps (PWA)**
+- **Mobile Development** with React Native
+
+</div>
+
+<br/>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<br/>
+
+<div align="center">
+
+![Yohannes's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yohajoh&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+<br/>
+
+<h2 align="center">🎯 Programming Philosophy</h2>
+
+<br/>
+
+<div align="center">
+
+> *"Write code that not only works but also tells a story. 
+> Build solutions that scale, adapt, and make a difference."*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💼 Check out my portfolio: [yohannes-portfolio.com](https://yohannes-portfolio.com)
+### 📧 Reach me at: yohannesbelete@example.com
+
+<br/>
+
+<img src="https://visitcount.itsvg.in/api?id=yohajoh&label=Profile%20Views&color=0&icon=5&pretty=true" />
+
+<br/>
+
+**Thanks for visiting my profile!** 🚀
+
+*Let's connect and build something amazing together!*
+
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+</div>
