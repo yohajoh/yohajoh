@@ -5,24 +5,24 @@
 
 ---
 
-# 😎 Yohannes Belete
+<h2 align="center">😎 Yohannes Belete</h2>
 
 ---
 
 ## 💫 About Me
 
 👨‍💻 **Full Stack Engineer** & **Computer Science and Engineering student** at **Adama Science and Technology University (ASTU)**.  
-I’m passionate about creating **modern, efficient, and scalable** solutions that solve real-world problems.  
+I’m passionate about building **modern, efficient, and scalable** software solutions that solve real-world problems.  
 
-💡 My tech journey began with curiosity about how systems work — evolving into a deep love for **full-stack development**, **API design**, and **system architecture**.  
+💡 My journey began with curiosity about how systems work — evolving into a love for **full-stack development**, **API design**, and **clean architecture**.  
 
-⚙️ I specialize in **Node.js** and **Express** for backend RESTful APIs and build seamless **React** and **Next.js** frontends for rich user experiences.  
+⚙️ I specialize in **Node.js** and **Express** for RESTful APIs, and create seamless **React** and **Next.js** frontends for interactive user experiences.  
 
-🌱 Currently exploring **React Query**, **TypeScript**, and **AI integrations**, while improving **problem-solving** on **LeetCode** and **Codeforces**.  
+🌱 Currently exploring **React Query**, **TypeScript**, and **AI integrations**, while sharpening **problem-solving** on **LeetCode** and **Codeforces**.  
 
-🚀 I aim to craft **production-grade applications** with clean code, great performance, and solid scalability.  
+🚀 My goal is to craft **production-grade apps** with **clean code**, **great performance**, and **scalability** in mind.  
 
-✨ Outside tech, I love **mentoring peers**, **collaborating on open-source**, and discovering how technology can make a real community impact.  
+✨ Outside coding, I enjoy **mentoring peers**, **contributing to open-source**, and using technology to create real community impact.  
 
 ---
 
@@ -54,7 +54,7 @@ I’m passionate about creating **modern, efficient, and scalable** solutions th
 
 - 🚀 Building **end-to-end full-stack apps** with **Next.js**, **React Query**, and **Node.js/Express**  
 - 🤖 Exploring **AI integrations** and **API performance optimization**  
-- 🧩 Enhancing **DSA**, **system design**, and **scalable architectures**  
+- 🧩 Strengthening **DSA**, **system design**, and **architecture**  
 - ☁️ Learning **testing**, **CI/CD**, and **cloud deployment**  
 - 💬 Contributing to **open-source** and collaborating globally  
 
@@ -64,11 +64,8 @@ I’m passionate about creating **modern, efficient, and scalable** solutions th
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=yohajoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yohajoh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohajoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohajoh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
