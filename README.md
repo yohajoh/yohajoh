@@ -7,31 +7,31 @@
 
 ## 💫 About Me
 
-👨‍💻 **Yohannes Belete** here — a passionate **Full Stack Engineer** and **Computer Science & Engineering student** at **Adama Science and Technology University (ASTU)**.  
-I’m driven by an endless curiosity for technology and a mission to create **efficient, modern, and scalable software solutions** that have real-world impact.  
-
-💡 My journey in tech started with a fascination for how complex systems work behind the scenes — and over time, that curiosity evolved into a deep love for **building full-stack applications**, designing **intuitive UIs**, and optimizing **backend logic** for performance and reliability.  
-
-🌱 I’m continuously exploring cutting-edge technologies like **Next.js**, **React Query**, and **AI integrations**, while honing my problem-solving skills on **LeetCode** and **Codeforces**.  
-⚙️ My goal is to become a highly capable software engineer capable of delivering **production-grade solutions** with precision, creativity, and scalability in mind.  
-
-✨ Outside of coding, I enjoy contributing to open-source, mentoring peers, and exploring how technology can empower communities and improve human experience.
+👨‍💻 **Yohannes Belete** — a passionate **Full Stack Engineer** and **Computer Science & Engineering student** at **Adama Science and Technology University (ASTU)**.  
+I enjoy building **modern, scalable, and user-focused** software using the latest web technologies.  
+💡 Constantly learning, solving problems, and crafting solutions that make an impact.  
 
 ---
 
 ## 🧠 My Tech Stack
 
-<p align="center">  
-  <strong>💬 Languages</strong><br/>  
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css" /><br/><br/>
+<p align="center"><strong>💬 Languages</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css" />
+</p>
 
-  <strong>⚙️ Frameworks & Libraries</strong><br/>  
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,redux,reactquery,tailwind,sass" /><br/><br/>
+<p align="center"><strong>⚙️ Frameworks & Libraries</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,redux,reactquery,tailwind,sass" />
+</p>
 
-  <strong>🗄️ Databases</strong><br/>  
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" /><br/><br/>
+<p align="center"><strong>🗄️ Databases</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+</p>
 
-  <strong>🧰 Tools & Version Control</strong><br/>  
+<p align="center"><strong>🧰 Tools & Version Control</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
@@ -39,11 +39,10 @@ I’m driven by an endless curiosity for technology and a mission to create **ef
 
 ## 🎯 Current Focus
 
-- 📱 Building **end-to-end full-stack applications** using **Next.js**, **React Query**, and **Django REST API**  
-- 🤖 Exploring **AI integrations** and **emotion analytics systems**  
-- 🧩 Strengthening **data structures, algorithms**, and **system design**  
-- 🧪 Learning about **Software Testing**, **Quality Assurance**, and **Cloud Deployment**  
-- 💬 Contributing to **open-source projects** and collaborating with other developers  
+- 📱 Building **full-stack apps** with **Next.js**, **React Query**, and **Django REST API**  
+- 🤖 Exploring **AI integrations** and **emotion analytics**  
+- 🧩 Improving **data structures**, **algorithms**, and **system design**  
+- 🧪 Learning **software testing**, **quality assurance**, and **deployment**
 
 ---
 
@@ -84,7 +83,7 @@ I’m driven by an endless curiosity for technology and a mission to create **ef
 
 ## 💬 Motto
 
-> “Building technology that empowers people, solves real problems, and inspires innovation.”  
+> “Building technology that empowers people, solves real problems, and inspires innovation.”
 
 ---
 
