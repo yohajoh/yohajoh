@@ -8,29 +8,36 @@
 ## 💫 About Me
 
 👨‍💻 **Yohannes Belete** — a passionate **Full Stack Engineer** and **Computer Science & Engineering student** at **Adama Science and Technology University (ASTU)**.  
-I enjoy building **modern, scalable, and user-focused** software using the latest web technologies.  
-💡 Constantly learning, solving problems, and crafting solutions that make an impact.  
+Driven by curiosity and creativity, I focus on building **modern, efficient, and scalable software solutions** that solve real-world challenges.  
+
+💡 My journey in tech began with a fascination for how complex systems work under the hood — and that curiosity evolved into a deep love for **full-stack development**, **API architecture**, and **clean system design**.  
+
+⚙️ I specialize in developing **RESTful APIs** using **Node.js** and **Express**, and crafting seamless user experiences with **React** and **Next.js**. I’m also exploring technologies like **React Query**, **TypeScript**, and **AI integrations** to enhance performance and interactivity across the stack.  
+
+🌱 I’m constantly improving my **problem-solving** and **algorithmic thinking** skills on **LeetCode** and **Codeforces**, while deepening my knowledge of **system design**, **database optimization**, and **scalable architecture**.  
+
+✨ Beyond coding, I enjoy **collaborating on open-source projects**, **mentoring peers**, and exploring how technology can empower people and make meaningful impact in communities.  
 
 ---
 
 ## 🧠 My Tech Stack
 
-<p align="center"><strong>💬 Languages</strong></p>
+### 💬 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css" />
 </p>
 
-<p align="center"><strong>⚙️ Frameworks & Libraries</strong></p>
+### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,redux,reactquery,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,reactquery,tailwind,sass" />
 </p>
 
-<p align="center"><strong>🗄️ Databases</strong></p>
+### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 </p>
 
-<p align="center"><strong>🧰 Tools & Version Control</strong></p>
+### 🧰 Tools & Version Control
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
@@ -39,10 +46,10 @@ I enjoy building **modern, scalable, and user-focused** software using the lates
 
 ## 🎯 Current Focus
 
-- 📱 Building **full-stack apps** with **Next.js**, **React Query**, and **Django REST API**  
-- 🤖 Exploring **AI integrations** and **emotion analytics**  
-- 🧩 Improving **data structures**, **algorithms**, and **system design**  
-- 🧪 Learning **software testing**, **quality assurance**, and **deployment**
+- 🚀 Building **end-to-end web applications** using **Next.js**, **React Query**, and **Node.js/Express**  
+- 🤖 Exploring **AI integrations** and advanced **API architectures**  
+- 🧩 Strengthening **data structures**, **algorithms**, and **system design**  
+- 🧪 Learning **software testing**, **performance optimization**, and **cloud deployment**  
 
 ---
 
