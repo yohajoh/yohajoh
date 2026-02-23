@@ -16,7 +16,7 @@ I’m passionate about building **modern, efficient, and scalable** software sol
 
 💡 My journey began with curiosity about how systems work — evolving into a love for **full-stack development**, **API design**, and **clean architecture**.  
 
-⚙️ I specialize in **Node.js** and **Express** for RESTful APIs, and create seamless **React** and **Next.js** frontends for interactive user experiences.  
+⚙️ specialize in **Node.js** and **Express** for RESTful APIs, and create seamless **React** and **Next.js** frontends for interactive user experiences.  
 
 🌱 Currently exploring **React Query**, **TypeScript**, and **AI integrations**, while sharpening **problem-solving** on **LeetCode** and **Codeforces**.  
 
