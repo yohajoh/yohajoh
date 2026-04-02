@@ -1,6 +1,5 @@
-<!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Yohannes+Belete!;🚀+Full+Stack+Engineer+%26+Problem+Solver;💻+Building+Scalable+Web+and+Mobile+Apps;🌍+From+Ethiopia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Yohannes+Belete!;🚀+Full+Stack+Engineer+%26+Problem+Solver;💻+Building+Scalable+Web+and+Mobile+Apps;🌍+From+Ethiopia" alt="Typing SVG" />
 </h1>
 
 ---
@@ -11,18 +10,12 @@
 
 ## 💫 About Me
 
-👨‍💻 **Full Stack Engineer** & **Computer Science and Engineering student** at **Adama Science and Technology University (ASTU)**.  
-I’m passionate about building **modern, efficient, and scalable** software solutions that solve real-world problems.  
-
-💡 My journey began with curiosity about how systems work — evolving into a love for **full-stack development**, **API design**, and **clean architecture**.  
-
-⚙️ specialize in **Node.js** and **Express** for RESTful APIs, and create seamless **React** and **Next.js** frontends for interactive user experiences.  
-
-🌱 Currently exploring **React Query**, **TypeScript**, and **AI integrations**, while sharpening **problem-solving** on **LeetCode** and **Codeforces**.  
-
-🚀 My goal is to craft **production-grade apps** with **clean code**, **great performance**, and **scalability** in mind.  
-
-✨ Outside coding, I enjoy **mentoring peers**, **contributing to open-source**, and using technology to create real community impact.  
+👨‍💻 **Full Stack Engineer** and CS student at Adama Science and Technology University.  
+💡 Passionate about building modern, scalable software to solve real-world challenges.  
+⚙️ Specialized in **JavaScript** (Node.js/Express) and high-performance **React/Next.js** frontends.  
+🌱 Currently mastering **React Query**, **AI integrations**, and competitive programming.  
+🚀 Committed to delivering production-grade apps with clean architecture and great UX.  
+✨ Active mentor and open-source contributor focused on community technology impact.  
 
 ---
 
@@ -30,7 +23,7 @@ I’m passionate about building **modern, efficient, and scalable** software sol
 
 ### 💬 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
@@ -52,11 +45,7 @@ I’m passionate about building **modern, efficient, and scalable** software sol
 
 ## 🎯 Current Focus
 
-- 🚀 Building **end-to-end full-stack apps** with **Next.js**, **React Query**, and **Node.js/Express**  
-- 🤖 Exploring **AI integrations** and **API performance optimization**  
-- 🧩 Strengthening **DSA**, **system design**, and **architecture**  
-- ☁️ Learning **testing**, **CI/CD**, and **cloud deployment**  
-- 💬 Contributing to **open-source** and collaborating globally  
+- 🚀 Building **end-to-end full-stack apps** with **Next.js** and **Node.js** - 🤖 Exploring **AI integrations** and **API performance optimization** - 🧩 Strengthening **DSA**, **system design**, and **architecture** - ☁️ Learning **testing**, **CI/CD**, and **cloud deployment** - 💬 Contributing to **open-source** and collaborating globally  
 
 ---
 
@@ -78,15 +67,15 @@ I’m passionate about building **modern, efficient, and scalable** software sol
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/your-leetcode" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" alt="LeetCode"/>
+    <img src="https://skillicons.dev/icons?i=leetcode" width="50" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/your-codeforces" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="45" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="50" alt="Codeforces"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23F97316.svg?style=for-the-badge&logo=google-chrome&logoColor=white" height="50" alt="Portfolio"/>
   </a>
 </p>
 
@@ -99,5 +88,5 @@ I’m passionate about building **modern, efficient, and scalable** software sol
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=100&section=footer"/>
 </p>
