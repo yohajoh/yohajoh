@@ -12,15 +12,10 @@
 ## 💫 About Me
 
 👨‍💻 **Full Stack Engineer** & **CSE student** at **Adama Science and Technology University (ASTU)**.  
-
 💡 Passionate about building modern, efficient, and scalable software for real-world problems.  
-
 ⚙️ specialize in **Node.js** and **Express** for RESTful APIs, and React/Next.js for high-performance frontends.
-
 🌱 Exploring **React Query**, **TypeScript**, and **AI integrations**, and competitive programming on LeetCode. 
-
 🚀 Focused on crafting **production-grade apps** with **clean code**, and high scalability. 
-
 ✨ Enjoy **mentoring peers**, **contributing to open-source**, and using technology for community impact. 
 
 make these very short short
