@@ -67,19 +67,19 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/yohannes-belete-3357ba3a8" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/your-leetcode" target="_blank">
+  <a href="https://leetcode.com/u/yohajoh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/your-codeforces" target="_blank">
+  <a href="https://codeforces.com/profile/yohajoh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="45" alt="Codeforces"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://yohajoh.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
