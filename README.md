@@ -51,10 +51,6 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yohajoh&theme=tokyonight&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
 <div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%; gap: 10px;">
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=yohajoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="height: 180px; flex: 1; min-width: 0; object-fit: contain;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohajoh&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="height: 180px; flex: 2; min-width: 0; object-fit: contain;" />
