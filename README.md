@@ -19,9 +19,9 @@
 
 ---
 
-## 📈 Learning Progress
+## 📈 Activity Progress
 <p align="center">
-  <img src="https://geps.dev/progress/85?dangerColor=3B82F6&warningColor=3B82F6&successColor=3B82F6" alt="Learning Progress" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yohajoh&theme=tokyonight&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
