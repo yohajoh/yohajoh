@@ -10,19 +10,12 @@
 
 ## 💫 About Me
 
-👨‍💻 **Full Stack Engineer** & CSE student at ASTU.  
-💡 Building modern, scalable software for real-world problems.  
-⚙️ Specialized in **Node.js/Express** and **React/Next.js**.  
-🌱 Learning **TypeScript**, **AI**, and Competitive Programming.  
-🚀 Crafting production-grade apps with clean code.  
-✨ Mentoring peers and contributing to open-source projects.  
-
----
-
-## 📈 Activity Progress
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yohajoh&theme=tokyonight&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+👨‍💻 **Full Stack Engineer** & **CSE student** at **Adama Science and Technology University (ASTU)**.  
+💡 Passionate about building modern, efficient, and scalable software for real-world problems.  
+⚙️ specialize in **Node.js** and **Express** for RESTful APIs, and React/Next.js for high-performance frontends.  
+🌱 Exploring **React Query**, **TypeScript**, and **AI integrations**, and competitive programming on LeetCode.  
+🚀 Focused on crafting **production-grade apps** with **clean code**, and high scalability.  
+✨ Enjoy **mentoring peers**, **contributing to open-source**, and using technology for community impact.  
 
 ---
 
@@ -52,15 +45,15 @@
 
 ## 🎯 Current Focus
 
-- 🚀 Building **end-to-end full-stack apps** with **Next.js** and **React Query**.  
-- 🤖 Exploring **AI integrations** and **API performance optimization**.  
-- 🧩 Strengthening **DSA**, **system design**, and **architecture**.  
-- ☁️ Learning **testing**, **CI/CD**, and **cloud deployment**.  
-- 💬 Contributing to **open-source** and collaborating globally.  
+- 🚀 Building **end-to-end full-stack apps** with **Next.js**, **React Query**, and **Node.js/Express** - 🤖 Exploring **AI integrations** and **API performance optimization** - 🧩 Strengthening **DSA**, **system design**, and **architecture** - ☁️ Learning **testing**, **CI/CD**, and **cloud deployment** - 💬 Contributing to **open-source** and collaborating globally  
 
 ---
 
 ## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yohajoh&theme=tokyonight&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%; gap: 10px;">
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=yohajoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="height: 180px; flex: 1; min-width: 0; object-fit: contain;" />
