@@ -56,8 +56,11 @@
 
 ## 📊 GitHub Analytics
 
-| :---: | :---: | :---: |
-| <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=yohajoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohajoh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" /> | <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=yohajoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" /> |
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: nowrap;">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=yohajoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohajoh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=yohajoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+</div>
 
 ---
 
