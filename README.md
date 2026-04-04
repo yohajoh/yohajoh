@@ -57,11 +57,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="31%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=yohajoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img width="31%" src="https://github-readme-streak-stats.herokuapp.com/?user=yohajoh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  &nbsp;
-  <img width="31%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=yohajoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=yohajoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" width="35%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohajoh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" width="25%" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=yohajoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" width="35%" />
 </p>
 
 ---
