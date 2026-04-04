@@ -56,11 +56,11 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=yohajoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="width:31%; height:165px; object-fit:cover;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohajoh&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="width:31%; height:165px; object-fit:cover;"/>
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=yohajoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="width:31%; height:165px; object-fit:cover;"/>
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=yohajoh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="height: 170px; flex: 1; min-width: 0; padding: 5px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohajoh&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="height: 170px; flex: 1; min-width: 0; padding: 5px;" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=yohajoh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="height: 170px; flex: 1; min-width: 0; padding: 5px;" />
+</div>
 
 ---
 
