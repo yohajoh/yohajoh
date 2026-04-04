@@ -29,7 +29,7 @@
 
 ### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,reactquery,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,reactquery,tailwind,sass" />
 </p>
 
 ### 🗄️ Databases
