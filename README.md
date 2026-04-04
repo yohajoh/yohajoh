@@ -45,7 +45,11 @@
 
 ## 🎯 Current Focus
 
-- 🚀 Building **end-to-end full-stack apps** with **Next.js**, **React Query**, and **Node.js/Express** - 🤖 Exploring **AI integrations** and **API performance optimization** - 🧩 Strengthening **DSA**, **system design**, and **architecture** - ☁️ Learning **testing**, **CI/CD**, and **cloud deployment** - 💬 Contributing to **open-source** and collaborating globally  
+- 🚀 Building **end-to-end full-stack apps** with **Next.js**, **React Query**, and **Node.js/Express**  
+- 🤖 Exploring **AI integrations** and **API performance optimization**  
+- 🧩 Strengthening **DSA**, **system design**, and **architecture**  
+- ☁️ Learning **testing**, **CI/CD**, and **cloud deployment**  
+- 💬 Contributing to **open-source** and collaborating globally  
 
 ---
 
